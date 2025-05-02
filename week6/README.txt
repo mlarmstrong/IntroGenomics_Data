@@ -1,1 +1,0 @@
-This is a text file with information on the vcf you are downloading. This data is from: Asymmetric oceanographic processes mediate connectivity and population genetic structure as revealed by RADseq in a highly dispersive marine invertebrate (Parastichopus californicus)
